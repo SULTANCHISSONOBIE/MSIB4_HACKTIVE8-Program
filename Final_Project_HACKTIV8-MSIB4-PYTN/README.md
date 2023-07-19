@@ -1,1 +1,0 @@
-Ini adalah repository untuk semua tugas program Kampus Merdeka HACKTIVATE8
